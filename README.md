@@ -1,1 +1,2 @@
-# Calculator can do basic operation when it parse the string. 
+# Basic Calculator  
+Code is used to parse a string and perform the corresponding mathematical operation.
